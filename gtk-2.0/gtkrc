@@ -529,7 +529,7 @@ style "xfdesktop-icon-view" {
 	fg[ACTIVE] = "#ffffff"
 
 	engine "murrine" {
-		textstyle = 5
+		textstyle = 0
 		text_shade = 0.05
 	}
 }
